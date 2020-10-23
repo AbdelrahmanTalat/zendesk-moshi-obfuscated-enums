@@ -1,0 +1,1 @@
+# moshi-obfuscated-enums
